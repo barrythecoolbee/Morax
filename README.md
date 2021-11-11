@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/barrythecoolbee/Morax">
-    <img src="Assets/Sprites/CharSprites/Idle/Idle1.png" alt="Logo" width="170" height="250">
+    <img src="Assets/Sprites/Screenshots/Morax_Cover.png" alt="Logo" width="300" height="250">
   </a>
 
 <h3 align="center">Morax</h3>
@@ -35,7 +35,7 @@
 ## About The Project
 
 <p align="center">
-<img src="Assets/Sprites/UI/Untitled_Artwork 9.png" alt="Logo">
+<img src="Assets/Sprites/Screenshots/morax2.png" alt="Logo" width="220" height="250">
 </p>
 
 The player controls Morax, a demon with the head of a bull, that desperately wants to escape from hell. 
