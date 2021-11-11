@@ -77,7 +77,7 @@ Youtube - [https://www.youtube.com/channel/UCuzo8NbNm7MCut_lDQ7WNvw](https://www
 
 ArtStation - [https://www.artstation.com/barrythecoolbee](https://www.artstation.com/barrythecoolbee)
 
-Project Link - [https://github.com/barrythecoolbee/A-Life-s-End](https://github.com/barrythecoolbee/Morax)
+Project Link - [https://github.com/barrythecoolbee/Morax](https://github.com/barrythecoolbee/Morax)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
